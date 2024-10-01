@@ -1,3 +1,5 @@
+# My original Code
+
 # fruits = ["Apple", "Strawberry", "Watermelon"]
 # adjectives = ["Red", "Delicious", "Sweet"]
 
@@ -9,6 +11,8 @@
 #     print(lim)
 # print(lim)
 
+
+# My ChatGpt improved code
 fruits = ["Apple", "Strawberry", "Watermelon"]
 adjectives = ["Red", "Delicious", "Sweet"]
 
