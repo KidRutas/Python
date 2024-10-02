@@ -13,8 +13,8 @@
 
 
 # My ChatGpt improved code
-fruits = ["Apple", "Strawberry", "Watermelon"]
-adjectives = ["Red", "Delicious", "Sweet"]
+fruits = ["Apple", "Strawberry", "Watermelon", "Craneberry"]
+adjectives = ["Red", "Delicious", "Sweet", "Blue"]
 
 for y in range(3):
     lim = adjectives[y] + " " + fruits[y]  # Combine adjective and fruit
